@@ -1,5 +1,9 @@
 {
    "name":"Anastasiya Palovna",
    "pets":"Tisha the cat, Gleb the human",
-   "salary":50
+   "salary":50,
+   "favourite movie":"Interstate 60",
+   "favourite series":"the Wire",
+   "favourite food":"pasta",
+   "country, that i want to visit": "Australia"
 }
